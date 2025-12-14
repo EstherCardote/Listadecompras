@@ -7,3 +7,4 @@ MORANGO
 PERA
 PESSEGO
 GOIABA
+testando o hit help
