@@ -12,4 +12,4 @@ TANGERINA
 MEXERICA
 testando o hit help
 adicionei novos itens
-ffff
+edição pelo branch desenvolvedor1
